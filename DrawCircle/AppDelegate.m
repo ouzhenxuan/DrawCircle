@@ -7,6 +7,8 @@
 //
 
 #import "AppDelegate.h"
+#import "JPFPSStatus.h"
+//#import "RRFPSBar.h"
 
 @interface AppDelegate ()
 
@@ -17,6 +19,14 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+//#ifndef OPTIMIZE
+    
+//    [[RRFPSBar sharedInstance] setHidden:NO];
+//#endif
+    
+#if defined(DEBUG)||defined(_DEBUG)
+    [[JPFPSStatus sharedInstance] open];
+#endif
     return YES;
 }
 

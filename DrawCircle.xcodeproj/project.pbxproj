@@ -7,15 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F52C84F01D74673F00FADB14 /* OneViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F52C84EF1D74673F00FADB14 /* OneViewCell.m */; };
 		F5C3CC0E1D65DEDA00DE60A9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C3CC0D1D65DEDA00DE60A9 /* main.m */; };
 		F5C3CC111D65DEDA00DE60A9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C3CC101D65DEDA00DE60A9 /* AppDelegate.m */; };
 		F5C3CC141D65DEDA00DE60A9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C3CC131D65DEDA00DE60A9 /* ViewController.m */; };
 		F5C3CC171D65DEDA00DE60A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5C3CC151D65DEDA00DE60A9 /* Main.storyboard */; };
 		F5C3CC191D65DEDA00DE60A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5C3CC181D65DEDA00DE60A9 /* Assets.xcassets */; };
 		F5C3CC1C1D65DEDA00DE60A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5C3CC1A1D65DEDA00DE60A9 /* LaunchScreen.storyboard */; };
+		F5C3CC251D65E43E00DE60A9 /* OneController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C3CC241D65E43E00DE60A9 /* OneController.m */; };
+		F5C3CC281D65E44A00DE60A9 /* TwoController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C3CC271D65E44A00DE60A9 /* TwoController.m */; };
+		F5C3CC2B1D65E45800DE60A9 /* ThreeController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C3CC2A1D65E45800DE60A9 /* ThreeController.m */; };
+		F5C3CC2E1D65E46200DE60A9 /* FourController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C3CC2D1D65E46200DE60A9 /* FourController.m */; };
+		F5C3CC301D65E8E200DE60A9 /* hehe.png in Resources */ = {isa = PBXBuildFile; fileRef = F5C3CC2F1D65E8E200DE60A9 /* hehe.png */; };
+		F5CE7B4D1D75B086004509AA /* RRFPSBar.m in Sources */ = {isa = PBXBuildFile; fileRef = F5CE7B4C1D75B086004509AA /* RRFPSBar.m */; };
+		F5CE7B511D75B1DD004509AA /* JPFPSStatus.m in Sources */ = {isa = PBXBuildFile; fileRef = F5CE7B501D75B1DD004509AA /* JPFPSStatus.m */; };
+		F5CE7B531D766FF9004509AA /* btn_connectpage_avatar.png in Resources */ = {isa = PBXBuildFile; fileRef = F5CE7B521D766FF9004509AA /* btn_connectpage_avatar.png */; };
+		F5CE7B551D767514004509AA /* xingxing.png in Resources */ = {isa = PBXBuildFile; fileRef = F5CE7B541D767514004509AA /* xingxing.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F52C84EE1D74673F00FADB14 /* OneViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneViewCell.h; sourceTree = "<group>"; };
+		F52C84EF1D74673F00FADB14 /* OneViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneViewCell.m; sourceTree = "<group>"; };
 		F5C3CC091D65DEDA00DE60A9 /* DrawCircle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrawCircle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5C3CC0D1D65DEDA00DE60A9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F5C3CC0F1D65DEDA00DE60A9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +38,21 @@
 		F5C3CC181D65DEDA00DE60A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5C3CC1B1D65DEDA00DE60A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F5C3CC1D1D65DEDA00DE60A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5C3CC231D65E43E00DE60A9 /* OneController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneController.h; sourceTree = "<group>"; };
+		F5C3CC241D65E43E00DE60A9 /* OneController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneController.m; sourceTree = "<group>"; };
+		F5C3CC261D65E44A00DE60A9 /* TwoController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoController.h; sourceTree = "<group>"; };
+		F5C3CC271D65E44A00DE60A9 /* TwoController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoController.m; sourceTree = "<group>"; };
+		F5C3CC291D65E45800DE60A9 /* ThreeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeController.h; sourceTree = "<group>"; };
+		F5C3CC2A1D65E45800DE60A9 /* ThreeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThreeController.m; sourceTree = "<group>"; };
+		F5C3CC2C1D65E46200DE60A9 /* FourController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourController.h; sourceTree = "<group>"; };
+		F5C3CC2D1D65E46200DE60A9 /* FourController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourController.m; sourceTree = "<group>"; };
+		F5C3CC2F1D65E8E200DE60A9 /* hehe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hehe.png; sourceTree = "<group>"; };
+		F5CE7B4B1D75B086004509AA /* RRFPSBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRFPSBar.h; sourceTree = "<group>"; };
+		F5CE7B4C1D75B086004509AA /* RRFPSBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRFPSBar.m; sourceTree = "<group>"; };
+		F5CE7B4F1D75B1DD004509AA /* JPFPSStatus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPFPSStatus.h; sourceTree = "<group>"; };
+		F5CE7B501D75B1DD004509AA /* JPFPSStatus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JPFPSStatus.m; sourceTree = "<group>"; };
+		F5CE7B521D766FF9004509AA /* btn_connectpage_avatar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_connectpage_avatar.png; sourceTree = "<group>"; };
+		F5CE7B541D767514004509AA /* xingxing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xingxing.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,15 +85,27 @@
 		F5C3CC0B1D65DEDA00DE60A9 /* DrawCircle */ = {
 			isa = PBXGroup;
 			children = (
+				F5CE7B4E1D75B1DD004509AA /* JPFPSStatus */,
+				F5CE7B4A1D75B086004509AA /* RRFPSBar */,
 				F5C3CC0F1D65DEDA00DE60A9 /* AppDelegate.h */,
 				F5C3CC101D65DEDA00DE60A9 /* AppDelegate.m */,
 				F5C3CC121D65DEDA00DE60A9 /* ViewController.h */,
 				F5C3CC131D65DEDA00DE60A9 /* ViewController.m */,
 				F5C3CC151D65DEDA00DE60A9 /* Main.storyboard */,
+				F5C3CC231D65E43E00DE60A9 /* OneController.h */,
+				F5C3CC241D65E43E00DE60A9 /* OneController.m */,
+				F5C3CC261D65E44A00DE60A9 /* TwoController.h */,
+				F5C3CC271D65E44A00DE60A9 /* TwoController.m */,
+				F5C3CC291D65E45800DE60A9 /* ThreeController.h */,
+				F5C3CC2A1D65E45800DE60A9 /* ThreeController.m */,
+				F5C3CC2C1D65E46200DE60A9 /* FourController.h */,
+				F5C3CC2D1D65E46200DE60A9 /* FourController.m */,
 				F5C3CC181D65DEDA00DE60A9 /* Assets.xcassets */,
 				F5C3CC1A1D65DEDA00DE60A9 /* LaunchScreen.storyboard */,
 				F5C3CC1D1D65DEDA00DE60A9 /* Info.plist */,
 				F5C3CC0C1D65DEDA00DE60A9 /* Supporting Files */,
+				F52C84EE1D74673F00FADB14 /* OneViewCell.h */,
+				F52C84EF1D74673F00FADB14 /* OneViewCell.m */,
 			);
 			path = DrawCircle;
 			sourceTree = "<group>";
@@ -74,9 +113,30 @@
 		F5C3CC0C1D65DEDA00DE60A9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F5CE7B541D767514004509AA /* xingxing.png */,
+				F5CE7B521D766FF9004509AA /* btn_connectpage_avatar.png */,
+				F5C3CC2F1D65E8E200DE60A9 /* hehe.png */,
 				F5C3CC0D1D65DEDA00DE60A9 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F5CE7B4A1D75B086004509AA /* RRFPSBar */ = {
+			isa = PBXGroup;
+			children = (
+				F5CE7B4B1D75B086004509AA /* RRFPSBar.h */,
+				F5CE7B4C1D75B086004509AA /* RRFPSBar.m */,
+			);
+			path = RRFPSBar;
+			sourceTree = "<group>";
+		};
+		F5CE7B4E1D75B1DD004509AA /* JPFPSStatus */ = {
+			isa = PBXGroup;
+			children = (
+				F5CE7B4F1D75B1DD004509AA /* JPFPSStatus.h */,
+				F5CE7B501D75B1DD004509AA /* JPFPSStatus.m */,
+			);
+			path = JPFPSStatus;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,7 +199,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5CE7B531D766FF9004509AA /* btn_connectpage_avatar.png in Resources */,
+				F5CE7B551D767514004509AA /* xingxing.png in Resources */,
 				F5C3CC1C1D65DEDA00DE60A9 /* LaunchScreen.storyboard in Resources */,
+				F5C3CC301D65E8E200DE60A9 /* hehe.png in Resources */,
 				F5C3CC191D65DEDA00DE60A9 /* Assets.xcassets in Resources */,
 				F5C3CC171D65DEDA00DE60A9 /* Main.storyboard in Resources */,
 			);
@@ -152,8 +215,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5C3CC251D65E43E00DE60A9 /* OneController.m in Sources */,
 				F5C3CC141D65DEDA00DE60A9 /* ViewController.m in Sources */,
+				F5C3CC2E1D65E46200DE60A9 /* FourController.m in Sources */,
+				F5CE7B511D75B1DD004509AA /* JPFPSStatus.m in Sources */,
 				F5C3CC111D65DEDA00DE60A9 /* AppDelegate.m in Sources */,
+				F5C3CC281D65E44A00DE60A9 /* TwoController.m in Sources */,
+				F5CE7B4D1D75B086004509AA /* RRFPSBar.m in Sources */,
+				F52C84F01D74673F00FADB14 /* OneViewCell.m in Sources */,
+				F5C3CC2B1D65E45800DE60A9 /* ThreeController.m in Sources */,
 				F5C3CC0E1D65DEDA00DE60A9 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -271,6 +341,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = DrawCircle/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ozx.DrawCircle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -282,6 +353,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = DrawCircle/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ozx.DrawCircle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -307,6 +379,7 @@
 				F5C3CC221D65DEDA00DE60A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
